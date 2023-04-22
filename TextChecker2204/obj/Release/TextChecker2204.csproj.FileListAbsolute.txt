@@ -1,0 +1,11 @@
+C:\Users\asano\source\repos\TextChecker2204\TextChecker2204\bin\Release\TextChecker2204.exe.config
+C:\Users\asano\source\repos\TextChecker2204\TextChecker2204\bin\Release\TextChecker2204.exe
+C:\Users\asano\source\repos\TextChecker2204\TextChecker2204\bin\Release\TextChecker2204.pdb
+C:\Users\asano\source\repos\TextChecker2204\TextChecker2204\obj\Release\TextChecker2204.csproj.AssemblyReference.cache
+C:\Users\asano\source\repos\TextChecker2204\TextChecker2204\obj\Release\TextChecker2204.csproj.SuggestedBindingRedirects.cache
+C:\Users\asano\source\repos\TextChecker2204\TextChecker2204\obj\Release\TextChecker2204.Form1.resources
+C:\Users\asano\source\repos\TextChecker2204\TextChecker2204\obj\Release\TextChecker2204.Properties.Resources.resources
+C:\Users\asano\source\repos\TextChecker2204\TextChecker2204\obj\Release\TextChecker2204.csproj.GenerateResource.cache
+C:\Users\asano\source\repos\TextChecker2204\TextChecker2204\obj\Release\TextChecker2204.csproj.CoreCompileInputs.cache
+C:\Users\asano\source\repos\TextChecker2204\TextChecker2204\obj\Release\TextChecker2204.exe
+C:\Users\asano\source\repos\TextChecker2204\TextChecker2204\obj\Release\TextChecker2204.pdb
